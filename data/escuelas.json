@@ -1,0 +1,1820 @@
+[
+  {
+    "id": 1,
+    "cct": "23ECB0014E",
+    "turno": "VESPERTINO",
+    "nombre": "CENTRO DE SERVICIOS ACADÉMICOS INTEGRALES CANCÚN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 57, 0, CALLE 65 NORTE, CALLE 57 NORTE, CALLE 24 PONIENTE, 88, 77516",
+    "coords": [
+      21.16806,
+      -86.84277
+    ]
+  },
+  {
+    "id": 2,
+    "cct": "23DPT0005R",
+    "turno": "VESPERTINO",
+    "nombre": "PLANTEL CONALEP 286. CANCUN II",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA 20 DE NOVIEMBRE, 0, AVENIDA LA COSTA, CALLE 161 NORTE, AVENIDA LA COSTA, 295, 77516",
+    "coords": [
+      21.18462,
+      -86.85036
+    ]
+  },
+  {
+    "id": 3,
+    "cct": "23PCT0008P",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO UNIVERSITARIO PENINSULAR",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA UXMAL, 0, CALLE PUNTA ALLEN, CALLE PUNTA PULTICUB, CALLE NINGUNO, 295, 77509",
+    
+    "coords": [
+      21.15582,
+      -86.86334
+    ]
+  },
+  {
+    "id": 4,
+    "cct": "23PBH0029H",
+    "turno": "MATUTINO",
+    "nombre": "LAWRENCE SCHOOL",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA MAYAPAN, 0, AVENIDA MAYAPAN, AVENIDA KABAH, AVENIDA YAXCHILAN, 295, 77505",
+  
+    "coords": [
+      21.15194,
+      -86.83567
+    ]
+  },
+  {
+    "id": 5,
+    "cct": "23DCT0005N",
+    "turno": "VESPERTINO",
+    "nombre": "CENTRO DE BACHILLERATO TECNOLÓGICO INDUSTRIAL Y DE SERVICIOS NUM. 301",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CENTENARIO, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE 20 DE NOVIEMBRE, 359, 77500",
+   
+    "coords": [
+      21.163022,
+      -86.902606
+    ]
+  },
+  {
+    "id": 6,
+    "cct": "23PBH0046Y",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO SUMMERHILL",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 75, 0, AVENIDA JOSE LOPEZ PORTILLO, CALLE 10, CALLE 73, 295, 77514",
+   
+    "coords": [
+      21.16384,
+      -86.84687
+    ]
+  },
+  {
+    "id": 7,
+    "cct": "23ETC0007K",
+    "turno": "VESPERTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN III",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA 20 DE NOVIEMBRE, 0, AVENIDA CENTENARIO, CALLE NINGUNO, CALLE NINGUNO, 295, 77539",
+   
+    "coords": [
+      21.16213,
+      -86.89887
+    ]
+  },
+  {
+    "id": 8,
+    "cct": "23PBH0010J",
+    "turno": "MATUTINO",
+    "nombre": "CAMPO ESCUELA SAN JOSE",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE CARRETERA FEDERAL LIBRE 307 TRAMO MERIDA, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77560",
+   
+    "coords": [
+      21.13576,
+      -86.90389
+    ]
+  },
+  {
+    "id": 9,
+    "cct": "23PCT0010D",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO TECNOLÓGICO INSTITUTO LIVIER",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CARLOS J. NADER, 0, AVENIDA JOSÉ GARCÍA DE LA TORRE, CALLE NINGUNO, AVENIDA TULÚM, 2, 77500",
+   
+    "coords": [
+      21.167399,
+      -86.824135
+    ]
+  },
+  {
+    "id": 10,
+    "cct": "23PBH0009U",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO EDUCATIVO ITZAMNA",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "RETORNO PUNTA CHUNYUNYUN, 0, CALLE PUNTA YOQUEN, CALLE PUNTA CHACCHIC, CALLE PUNTA YOQUEN, 295, 77509",
+    
+    "coords": [
+      21.16471,
+      -86.83284
+    ]
+  },
+  {
+    "id": 11,
+    "cct": "23PBH0037Q",
+    "turno": "MATUTINO",
+    "nombre": "ESCUELA DEL SINDICALISMO NUEVO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 12 PONIENTE, 0, AVENIDA UXMAL, CALLE 12, AVENIDA JOSE LOPEZ PORTILLO, 295, 77500",
+   
+    "coords": [
+      21.16915,
+      -86.83595
+    ]
+  },
+  {
+    "id": 12,
+    "cct": "23PBH3890Y",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO NATKAN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE NINGUNO, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.11711,
+      -86.88254
+    ]
+  },
+  {
+    "id": 13,
+    "cct": "23ECB0013F",
+    "turno": "VESPERTINO",
+    "nombre": "CANCUN DOS",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA FRANCISCO I. MADERO, 0, CALLE 137 NORTE, CALLE 139 NORTE, CALLE 36 PONIENTE, 295, 77538",
+   
+    "coords": [
+      21.15106,
+      -86.8806
+    ]
+  },
+  {
+    "id": 14,
+    "cct": "23DPT0001V",
+    "turno": "MATUTINO",
+    "nombre": "PLANTEL CONALEP 009. CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA JOSE GARCIA DE LA TORRE, 0, AVENIDA BONAMPAK, AVENIDA CHICHEN ITZA, AVENIDA BONAMPAK, 295, 77500",
+   
+    "coords": [
+      21.1684,
+      -86.82279
+    ]
+  },
+  {
+    "id": 15,
+    "cct": "23EMS0032A",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO MODULAR CECYTE CANCÚN I",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 71, 0, CALLE 72 PONIENTE, AVENIDA LEONA VICARIO, CALLE 79, 295, 77516",
+    
+    "coords": [
+      21.17592,
+      -86.85298
+    ]
+  },
+  {
+    "id": 16,
+    "cct": "23ETC0007K",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN III",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA 20 DE NOVIEMBRE, 0, AVENIDA CENTENARIO, CALLE NINGUNO, CALLE NINGUNO, 295, 77539",
+   
+    "coords": [
+      21.16213,
+      -86.89887
+    ]
+  },
+  {
+    "id": 17,
+    "cct": "23PBH0013G",
+    "turno": "VESPERTINO",
+    "nombre": "COLEGIO IGNACIO COMONFORT",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA BONAMPAK, 0, CALLE 28 ORIENTE, CALLE 26 ORIENTE, CALLE 51 NORTE, 295, 77526",
+
+    "coords": [
+      21.18266,
+      -86.81928
+    ]
+  },
+  {
+    "id": 18,
+    "cct": "23DCT0375F",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO DE BACHILLERATO TECNOLOGICO INDUSTRIAL Y DE SERVICIOS NUM. 111",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHICHEN ITZA, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.17137,
+      -86.82312
+    ]
+  },
+  {
+    "id": 19,
+    "cct": "23PCT0005S",
+    "turno": "MATUTINO",
+    "nombre": "JAIME TORRES BODET",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHICHEN ITZA, 0, CALLE ACANCEH, CALLE TIMUL, CALLE SISBIC, 295, 77515",
+
+    "coords": [
+      21.158029,
+      -86.853421
+    ]
+  },
+  {
+    "id": 20,
+    "cct": "23PBH0038P",
+    "turno": "MATUTINO",
+    "nombre": "ESCUELA PREPARATORIA ANDRES QUINTANA ROO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHAC MOOL, 0, AVENIDA PUERTO JUAREZ, AVENIDA LEONA VICARIO, CALLE 31 PONIENTE, 295, 77517",
+ 
+    "coords": [
+      21.16521,
+      -86.87232
+    ]
+  },
+  {
+    "id": 21,
+    "cct": "23PBH0047X",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO MIRAMAR",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE FRESNO, 0, AVENIDA HUAYACAN, CALLE LIMON, CALLE ENCINO, 295, 77560",
+   
+    "coords": [
+      21.12794,
+      -86.838321
+    ]
+  },
+  {
+    "id": 22,
+    "cct": "23PBH3686N",
+    "turno": "MATUTINO",
+    "nombre": "UNIVERSIDAD TEC MILENIO CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA BONAMPAK, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77528",
+ 
+    "coords": [
+      21.13304,
+      -86.82647
+    ]
+  },
+  {
+    "id": 23,
+    "cct": "23ETC0001Q",
+    "turno": "VESPERTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN I",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 71, 0, CALLE 72 PONIENTE, AVENIDA LEONA VICARIO, CALLE 79, 295, 77516",
+    
+    "coords": [
+      21.17592,
+      -86.85298
+    ]
+  },
+  {
+    "id": 24,
+    "cct": "23PBH0003Z",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO KUKULCAN CANCUN, S.C.",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE CAYO CENTRO, 0, AVENIDA CABO CATOCHE, CALLE PUNTA NOH-KU, CALLE NINGUNO, 295, 77508",
+  
+    "coords": [
+      21.15742,
+      -86.84569
+    ]
+  },
+  {
+    "id": 25,
+    "cct": "23PBH3703N",
+    "turno": "MATUTINO",
+    "nombre": "PREPARATORIA AZTECA DEL CARIBE",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHICHEN ITZA, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77515",
+
+    "coords": [
+      21.15846,
+      -86.85267
+    ]
+  },
+  {
+    "id": 26,
+    "cct": "23PBH0023N",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO BOSTON TIKAL",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHICHEN ITZA, 0, CALLE CHAC MOOL, AVENIDA ANDRÉS QUINTANA ROO, AVENIDA LÓPEZ PORTILLO, 295, 77535",
+ 
+    "coords": [
+      21.14711,
+      -86.87558
+    ]
+  },
+  {
+    "id": 27,
+    "cct": "23PBH0031W",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO DEL CARIBE",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA FRANCISCO I. MADERO, 0, CALLE 33, CALLE 55 NORTE, CALLE 10 PONIENTE, 295, 77517",
+ 
+    "coords": [
+      21.16315,
+      -86.85514
+    ]
+  },
+  {
+    "id": 28,
+    "cct": "23ETC0001Q",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN I",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 71, 0, CALLE 72 PONIENTE, AVENIDA LEONA VICARIO, CALLE 79, 295, 77516",
+    
+    "coords": [
+      21.17592,
+      -86.85298
+    ]
+  },
+  {
+    "id": 29,
+    "cct": "23ECB0023M",
+    "turno": "VESPERTINO",
+    "nombre": "PLANTEL CANCUN CUATRO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHETUMAL, 0, CALLE KANLOL, ANDADOR TULIPANES, CALLE CHUNUP, 307, 77519",
+   
+    "coords": [
+      21.16023,
+      -86.8316
+    ]
+  },
+  {
+    "id": 30,
+    "cct": "23PBH0074U",
+    "turno": "MATUTINO",
+    "nombre": "MODERN ACADEMY CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE CARRETERA CANCUN-AEROPUERTO KILOMETRO 5., 0, CALLE NINGUNO, CALLE NIGUNO, CALLE NINGUNO, 160, 77569",
+
+    "coords": [
+      21.103599,
+      -86.837019
+    ]
+  },
+  {
+    "id": 31,
+    "cct": "23PCT0003U",
+    "turno": "VESPERTINO",
+    "nombre": "JOSE MARTI",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA ANDRES QUINTANA ROO, 0, CALLE NACHI COCOM, AVENIDA TEPICH, PRIVADA NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.17186,
+      -86.82617
+    ]
+  },
+  {
+    "id": 32,
+    "cct": "23PCT0010D",
+    "turno": "VESPERTINO",
+    "nombre": "BACHILLERATO TECNOLÓGICO INSTITUTO LIVIER",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CARLOS J. NADER, 0, AVENIDA JOSÉ GARCÍA DE LA TORRE, CALLE NINGUNO, AVENIDA TULÚM, 2, 77500",
+   
+    "coords": [
+      21.167399,
+      -86.824135
+    ]
+  },
+  {
+    "id": 33,
+    "cct": "23PBH0042B",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO ALAMOS",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA PASEO DEL CASTAÑO, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77560",
+   
+    "coords": [
+      21.12878,
+      -86.84317
+    ]
+  },
+  {
+    "id": 34,
+    "cct": "23PBH0005Y",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO ECAB",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA KABAH, 0, AVENIDA JOSE LOPEZ PORTILLO, AVENIDA FRANCISCO I MADERO, CALLE 97 NORTE, 295, 77517",
+ 
+    "coords": [
+      21.16314,
+      -86.85397
+    ]
+  },
+  {
+    "id": 35,
+    "cct": "23DER0003Z",
+    "turno": "DISCONTINUO",
+    "nombre": "CENTRO DE ATENCION PARA ESTUDIANTES CON DISCAPACIDAD",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHICHEN ITZA, 0, AVENIDA BONAMPAK, CALLE HE ZABA, CALLE JOSE GARCIA DE LA TORRE, 295, 77500",
+   
+    "coords": [
+      21.17137,
+      -86.82312
+    ]
+  },
+  {
+    "id": 36,
+    "cct": "23DCM0002G",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR NUM. 41",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA LAK'IN, 0, AVENIDA LEONA VICARIO, CALLE NINGUNO, CALLE NINGUNO, 258, 77539",
+   
+    "coords": [
+      21.148829,
+      -86.906029
+    ]
+  },
+  {
+    "id": 37,
+    "cct": "23PBH0103Z",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO INSTITUTO METROPOLITANO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA LEONA VICARIO, 0, CALLE 71, CALLE 75 NORTE, CALLE 64, 136, 77516",
+    
+    "coords": [
+      21.175298,
+      -86.852949
+    ]
+  },
+  {
+    "id": 38,
+    "cct": "23PBH0103Z",
+    "turno": "VESPERTINO",
+    "nombre": "BACHILLERATO INSTITUTO METROPOLITANO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA LEONA VICARIO, 0, CALLE 71, CALLE 75 NORTE, CALLE 64, 136, 77516",
+    
+    "coords": [
+      21.175298,
+      -86.852949
+    ]
+  },
+  {
+    "id": 39,
+    "cct": "23PBH0051J",
+    "turno": "MATUTINO",
+    "nombre": "INSTITUTO XEL-BAALAM",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA FRANCISCO I MADERO, 0, CALLE 7, CALLE 3, CALLE 22 PONIENTE, 295, 77524",
+
+    "coords": [
+      21.17761,
+      -86.82702
+    ]
+  },
+  {
+    "id": 40,
+    "cct": "23DPT0006Q",
+    "turno": "MATUTINO",
+    "nombre": "PLANTEL CONALEP 298. CANCUN III",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE MIRLO, 0, CALLE PINZON, CALLE RUISEÑOR, CALLE NINGUNO, 254, 77518",
+
+    "coords": [
+      21.18612,
+      -86.88329
+    ]
+  },
+  {
+    "id": 41,
+    "cct": "23PBH0030X",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO UNID",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA NICHUPTE, 0, AVENIDA HUAYACAN, AVENIDA KABAH, AVENIDA LA LUNA, 295, 77515",
+
+    "coords": [
+      21.14087,
+      -86.83522
+    ]
+  },
+  {
+    "id": 42,
+    "cct": "23PBH3388O",
+    "turno": "MATUTINO",
+    "nombre": "INSTITUTO DEL CARIBE",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "BOULEVARD CUMBRES CANCUN, 0, AVENIDA HUAYACAN, CALLE MONTE VISION, PRIVADA RESIDENCIAL CUMBRES, 295, 77560",
+   
+    "coords": [
+      21.11261,
+      -86.84288
+    ]
+  },
+  {
+    "id": 43,
+    "cct": "23PBH0053H",
+    "turno": "MATUTINO",
+    "nombre": "MONTEVERDE INTERNATIONAL HIGH SCHOOL",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA BONAMPAK, 0, AVENIDA BANCO CHINCHORRO, AVENIDA CABO CATOCHE, AVENIDA TULUM, 295, 77560",
+   
+    "coords": [
+      21.13439,
+      -86.82574
+    ]
+  },
+  {
+    "id": 44,
+    "cct": "23ETC0008J",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN IV",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 110, 0, CALLE 113, CALLE 143 NORTE, CALLE 104, 295, 77500",
+   
+    "coords": [
+      21.1927,
+      -86.8307
+    ]
+  },
+  {
+    "id": 45,
+    "cct": "23ETC0008J",
+    "turno": "VESPERTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN IV",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 110, 0, CALLE 113, CALLE 143 NORTE, CALLE 104, 295, 77500",
+   
+    "coords": [
+      21.1927,
+      -86.8307
+    ]
+  },
+  {
+    "id": 46,
+    "cct": "23ECB0023M",
+    "turno": "MATUTINO",
+    "nombre": "PLANTEL CANCUN CUATRO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHETUMAL, 0, CALLE KANLOL, ANDADOR TULIPANES, CALLE CHUNUP, 307, 77519",
+   
+    "coords": [
+      21.16023,
+      -86.8316
+    ]
+  },
+  {
+    "id": 47,
+    "cct": "23DCT0272J",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO DE BACHILLERATO TECNOLOGICO INDUSTRIAL Y DE SERVICIOS NUM.272",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA ARCO NORTE, 0, CALLE ISLA MAGDALENA, AVENIDA ISLA SAONA, CALLE ISLA HOLBOX, 295, 77524",
+
+    "coords": [
+      21.178679,
+      -86.909912
+    ]
+  },
+  {
+    "id": 48,
+    "cct": "23DPT0008O",
+    "turno": "VESPERTINO",
+    "nombre": "PLANTEL CONALEP CANCÚN IV",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA EL CEDRAL, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 351, 77518",
+
+    "coords": [
+      21.195022,
+      -86.887402
+    ]
+  },
+  {
+    "id": 49,
+    "cct": "23PCT0003U",
+    "turno": "MATUTINO",
+    "nombre": "JOSE MARTI",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA ANDRES QUINTANA ROO, 0, CALLE NACHI COCOM, AVENIDA TEPICH, PRIVADA NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.17186,
+      -86.82617
+    ]
+  },
+  {
+    "id": 50,
+    "cct": "23PBH0112G",
+    "turno": "DISCONTINUO",
+    "nombre": "PREPARATORIA UCIEP",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 79, 0, AVENIDA MIGUEL HIDALGO, AVENIDA FRANCISCO I. MADERO, CALLE 71, 89, 77516",
+    
+    "coords": [
+      21.167985,
+      -86.850784
+    ]
+  },
+  {
+    "id": 51,
+    "cct": "23PBH3135L",
+    "turno": "MATUTINO",
+    "nombre": "UNIVERSIDAD LA SALLE CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE NINGUNO, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.05262,
+      -86.84643
+    ]
+  },
+  {
+    "id": 52,
+    "cct": "23ETK0040A",
+    "turno": "VESPERTINO",
+    "nombre": "TELEBACHILLERATO COMUNITARIO COLONIA TRES REYES",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 6 DE ENERO, 0, CALLE JOSE VALDEZ, CALLE NINGUNO, CALLE NINGUNO, 295, 77511",
+
+    "coords": [
+      21.10211,
+      -86.94449
+    ]
+  },
+  {
+    "id": 53,
+    "cct": "23PBH0115D",
+    "turno": "VESPERTINO",
+    "nombre": "COLEGIO JOSE VASCONCELOS",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE PEHALTUN, 0, CALLE INSTITUTO POLITENICO NACIONAL, CALLE PEHALTUN, CALLE 73, 314, 77539",
+   
+    "coords": [
+      21.135458,
+      -86.847994
+    ]
+  },
+  {
+    "id": 54,
+    "cct": "23ETC0004N",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN II",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CANCUN, 0, CALLE MARIO VILLANUEVA MADRID, AVENIDA 135, CALLE ANDALUCIA, 295, 77536",
+
+    "coords": [
+      21.13228,
+      -86.87717
+    ]
+  },
+  {
+    "id": 55,
+    "cct": "23ETC0004N",
+    "turno": "VESPERTINO",
+    "nombre": "COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS UNIDAD CANCUN II",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CANCUN, 0, CALLE MARIO VILLANUEVA MADRID, AVENIDA 135, CALLE ANDALUCIA, 295, 77536",
+
+    "coords": [
+      21.13228,
+      -86.87717
+    ]
+  },
+  {
+    "id": 56,
+    "cct": "23ETK0039L",
+    "turno": "VESPERTINO",
+    "nombre": "TELEBACHILLERATO COMUNITARIO COLONIA AVANTE",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE NINGUNO, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.09637,
+      -86.93497
+    ]
+  },
+  {
+    "id": 57,
+    "cct": "23ECB0013F",
+    "turno": "MATUTINO",
+    "nombre": "CANCUN DOS",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA FRANCISCO I. MADERO, 0, CALLE 137 NORTE, CALLE 139 NORTE, CALLE 36 PONIENTE, 295, 77538",
+   
+    "coords": [
+      21.15106,
+      -86.8806
+    ]
+  },
+  {
+    "id": 58,
+    "cct": "23PBH0081D",
+    "turno": "DISCONTINUO",
+    "nombre": "PREPARATORIA HENBORD",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA LAS TORRES, 0, AVENIDA CANCÚN, AVENIDA FONATUR, AVENIDA HUAYACAN, 200, 77535",
+ 
+    "coords": [
+      21.131965,
+      -86.843876
+    ]
+  },
+  {
+    "id": 59,
+    "cct": "23DPT0006Q",
+    "turno": "VESPERTINO",
+    "nombre": "PLANTEL CONALEP 298. CANCUN III",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE MIRLO, 0, CALLE PINZON, CALLE RUISEÑOR, CALLE NINGUNO, 254, 77518",
+
+    "coords": [
+      21.18612,
+      -86.88329
+    ]
+  },
+  {
+    "id": 60,
+    "cct": "23PBH0079P",
+    "turno": "DISCONTINUO",
+    "nombre": "LICEO CANCÚN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA NICHUPTÉ, 0, CALLE PUNTA PIEDRA, AVENIDA CONTOY, ANDADOR CONTOY, 240, 77500",
+   
+    "coords": [
+      21.142137,
+      -86.830914
+    ]
+  },
+  {
+    "id": 61,
+    "cct": "23PBH0076S",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO NUEVO KAAN KUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CENTENARIO, 0, CALLE 107, CALLE PROTERRITORIO, CALLE 98, 131, 77517",
+ 
+    "coords": [
+      21.18525,
+      -86.86034
+    ]
+  },
+  {
+    "id": 62,
+    "cct": "23PBH0076S",
+    "turno": "VESPERTINO",
+    "nombre": "COLEGIO NUEVO KAAN KUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CENTENARIO, 0, CALLE 107, CALLE PROTERRITORIO, CALLE 98, 131, 77517",
+ 
+    "coords": [
+      21.18525,
+      -86.86034
+    ]
+  },
+  {
+    "id": 63,
+    "cct": "23DPT0008O",
+    "turno": "MATUTINO",
+    "nombre": "PLANTEL CONALEP CANCÚN IV",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA EL CEDRAL, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 351, 77518",
+
+    "coords": [
+      21.195022,
+      -86.887402
+    ]
+  },
+  {
+    "id": 64,
+    "cct": "23PBH0083B",
+    "turno": "DISCONTINUO",
+    "nombre": "INSTITUTO PLATÓN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA JOSE LOPEZ PORTILLO, 0, CALLE 33 NORTE, CALLE 35 NORTE, CALLE 16, 73, 77510",
+    
+    "coords": [
+      21.169956,
+      -86.835378
+    ]
+  },
+  {
+    "id": 65,
+    "cct": "23ECB0002Z",
+    "turno": "VESPERTINO",
+    "nombre": "PLANTEL CANCUN UNO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 21, 0, CALLE 65 NORTE, CALLE 57 NORTE, CALLE 24 PONIENTE, 295, 77516",
+    
+    "coords": [
+      21.16702,
+      -86.84424
+    ]
+  },
+  {
+    "id": 66,
+    "cct": "23PBH0094H",
+    "turno": "DISCONTINUO",
+    "nombre": "BOSTON TIKAL OPEN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHICHEN ITZA, 61, CALLE NINGUNO, AVENIDA ANDRES QUINTANA ROO, CALLE NINGUNO, 95, 77537",
+   
+    "coords": [
+      21.14711,
+      -86.87558
+    ]
+  },
+  {
+    "id": 67,
+    "cct": "23EMS0035Y",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO MODULAR CECYTE UNIDAD CANCÚN II",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CANCUN, 0, CALLE MARIO VILLANUEVA MADRID, AVENIDA 135, CALLE ANDALUCIA, 295, 77536",
+
+    "coords": [
+      21.13228,
+      -86.87717
+    ]
+  },
+  {
+    "id": 68,
+    "cct": "23PBH0015E",
+    "turno": "MATUTINO",
+    "nombre": "INSTITUTO AMERICANO LEONARDO DA VINCI",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE NINGUNO, 0, AVENIDA 16 DE ABRIL, CALLE NINGUNO, AVENIDA BONAMPAK, 295, 77503",
+  
+    "coords": [
+      21.12783,
+      -86.83019
+    ]
+  },
+  {
+    "id": 69,
+    "cct": "23PBH0034T",
+    "turno": "MATUTINO",
+    "nombre": "PREPARATORIA CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA JOSE LOPEZ PORTILLO, 0, CALLE BACAL, CALLE YAXCOPOIL, CALLE YAXUNA, 295, 77515",
+
+    "coords": [
+      21.16787,
+      -86.84287
+    ]
+  },
+  {
+    "id": 70,
+    "cct": "23ECB0014E",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO DE SERVICIOS ACADÉMICOS INTEGRALES CANCÚN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 57, 0, CALLE 65 NORTE, CALLE 57 NORTE, CALLE 24 PONIENTE, 88, 77516",
+    
+    "coords": [
+      21.16806,
+      -86.84277
+    ]
+  },
+  {
+    "id": 71,
+    "cct": "23PBH0107V",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO ÁLAMOS PREPARATORIA SUR",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA VILLA MALLORCA, 0, CALLE VILLA MAYA, CALLE NINGUNO, CALLE NINGUNO, 240, 77500",
+   
+    "coords": [
+      21.113291,
+      -86.891984
+    ]
+  },
+  {
+    "id": 72,
+    "cct": "23DPT0005R",
+    "turno": "MATUTINO",
+    "nombre": "PLANTEL CONALEP 286. CANCUN II",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA 20 DE NOVIEMBRE, 0, AVENIDA LA COSTA, CALLE 161 NORTE, AVENIDA LA COSTA, 295, 77516",
+    
+    "coords": [
+      21.18462,
+      -86.85036
+    ]
+  },
+  {
+    "id": 73,
+    "cct": "23DCT0272J",
+    "turno": "VESPERTINO",
+    "nombre": "CENTRO DE BACHILLERATO TECNOLOGICO INDUSTRIAL Y DE SERVICIOS NUM.272",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA ARCO NORTE, 0, CALLE ISLA MAGDALENA, AVENIDA ISLA SAONA, CALLE ISLA HOLBOX, 295, 77524",
+
+    "coords": [
+      21.178679,
+      -86.909912
+    ]
+  },
+  {
+    "id": 74,
+    "cct": "23PBH0102Z",
+    "turno": "DISCONTINUO",
+    "nombre": "BACHILLERATO GENERAL JAMES GOSLING",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA LEONA VICARIO, 65, AVENIDA 137, CALLE 145, AVENIDA PUERTO JUAREZ, 115, 77519",
+   
+    "coords": [
+      21.158766,
+      -86.886586
+    ]
+  },
+  {
+    "id": 75,
+    "cct": "23ECB0002Z",
+    "turno": "MATUTINO",
+    "nombre": "PLANTEL CANCUN UNO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE 21, 0, CALLE 65 NORTE, CALLE 57 NORTE, CALLE 24 PONIENTE, 295, 77516",
+    
+    "coords": [
+      21.16702,
+      -86.84424
+    ]
+  },
+  {
+    "id": 76,
+    "cct": "23PBH0066L",
+    "turno": "DISCONTINUO",
+    "nombre": "BACHILLERATO EN LINEA DE LA UNIVERSIDAD DEL DESARROLLO PROFESIONAL",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA XELHA, 0, AVENIDA XELHA, AVENIDA XELHA, AVENIDA XELHA, 295, 77509",
+    
+    "coords": [
+      21.162875,
+      -86.834237
+    ]
+  },
+  {
+    "id": 77,
+    "cct": "23PBH0017C",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO ST. JOHN'S",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA 16 DE ABRIL, 0, AVENIDA BONAMPAK, AVENIDA LUIS DONALDO COLOSIO, CALLE NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.12485,
+      -86.83134
+    ]
+  },
+  {
+    "id": 78,
+    "cct": "23PBH0104Y",
+    "turno": "DISCONTINUO",
+    "nombre": "BACHILLERATO INSTITUTO METROPOLITANO",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA LEONA VICARIO, 0, CALLE 71, CALLE 75 NORTE, CALLE 64, 136, 77516",
+    
+    "coords": [
+      21.175298,
+      -86.852949
+    ]
+  },
+  {
+    "id": 79,
+    "cct": "23PCT0004T",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO TECNOLOGICO DE LA ESCUELA DE PUERICULTURA DEL SURESTE CAMPUS CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA JOSE LOPEZ PORTILLO, 0, CALLE 57 NORTE, CALLE 63 NORTE, CALLE 12 PONIENTE, 295, 77509",
+    
+    "coords": [
+      21.16611,
+      -86.84269
+    ]
+  },
+  {
+    "id": 80,
+    "cct": "23PBH0035S",
+    "turno": "MATUTINO",
+    "nombre": "INSTITUTO CESARE",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "BOULEVARD LUIS DONALDO COLOSIO, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77560",
+   
+    "coords": [
+      21.11324,
+      -86.83528
+    ]
+  },
+  {
+    "id": 81,
+    "cct": "23DCM0002G",
+    "turno": "VESPERTINO",
+    "nombre": "CENTRO DE ESTUDIOS TECNOLÓGICOS DEL MAR NUM. 41",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA LAK'IN, 0, AVENIDA LEONA VICARIO, CALLE NINGUNO, CALLE NINGUNO, 258, 77539",
+   
+    "coords": [
+      21.148829,
+      -86.906029
+    ]
+  },
+  {
+    "id": 82,
+    "cct": "23DPT0001V",
+    "turno": "VESPERTINO",
+    "nombre": "PLANTEL CONALEP 009. CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "PROFESIONAL TÉCNICO BACHILLER",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "ESTATAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA JOSE GARCIA DE LA TORRE, 0, AVENIDA BONAMPAK, AVENIDA CHICHEN ITZA, AVENIDA BONAMPAK, 295, 77500",
+   
+    "coords": [
+      21.1684,
+      -86.82279
+    ]
+  },
+  {
+    "id": 83,
+    "cct": "23PBH3970J",
+    "turno": "DISCONTINUO",
+    "nombre": "INSTITUTO PREUNIVERSITARIO DEL CENTRO DE MEXICO CAMPUS CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA JOSE LOPEZ PORTILLO, 0, CALLE 57 NORTE, CALLE V LOMBARDO, CALLE 16 PONIENTE, 295, 77516",
+    
+    "coords": [
+      21.167134,
+      -86.841259
+    ]
+  },
+  {
+    "id": 84,
+    "cct": "23PBH0026K",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO UNIVERSITARIO ANGLO MEXICANO, S.C. (CUAM)",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA BONAMPAK, 0, AVENIDA PUNTA CELARIN, AVENIDA CONTOY ORIENTE, AVENIDA TULUM, 295, 77500",
+   
+    "coords": [
+      21.13981,
+      -86.823
+    ]
+  },
+  {
+    "id": 85,
+    "cct": "23PBH0028I",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO EDUCATIVO MERIDA",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA DE LOS COLEGIOS, 0, CALLE LUIS DONALDO COLOSIO, BOULEVARD LUIS DONALDO COLOSIO, CALLE RINCONADA DE LAS CHACHALACAS, 295, 77560",
+   
+    "coords": [
+      21.09681,
+      -86.85026
+    ]
+  },
+  {
+    "id": 86,
+    "cct": "23PBH3838B",
+    "turno": "MATUTINO",
+    "nombre": "BACHILLERATO IMESAD, CAMPUS CANCÚN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA TULÚM, 0, AVENIDA JOSÉ GARCÍA DE LA TORRE, AVENIDA UXMAL, AVENIDA CARLOS J. NADER, 295, 77535",
+ 
+    "coords": [
+      21.166995,
+      -86.825029
+    ]
+  },
+  {
+    "id": 87,
+    "cct": "23DCT0005N",
+    "turno": "MATUTINO",
+    "nombre": "CENTRO DE BACHILLERATO TECNOLÓGICO INDUSTRIAL Y DE SERVICIOS NUM. 301",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CENTENARIO, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE 20 DE NOVIEMBRE, 359, 77500",
+   
+    "coords": [
+      21.163022,
+      -86.902606
+    ]
+  },
+  {
+    "id": 88,
+    "cct": "23PBH0088X",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO GLOBAL ACADEMY CANCUN",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA POLITECNICO, 0, CALLE PASEO XCARET, CALLE 127 NORTE, CALLE PASEOS DEL MAYAB, 191, 77535",
+ 
+    "coords": [
+      21.136915,
+      -86.870927
+    ]
+  },
+  {
+    "id": 89,
+    "cct": "23DCT0375F",
+    "turno": "VESPERTINO",
+    "nombre": "CENTRO DE BACHILLERATO TECNOLOGICO INDUSTRIAL Y DE SERVICIOS NUM. 111",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "TECNOLÓGICO",
+    "tipo": "PÚBLICO",
+    "sostenimiento": "FEDERAL",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA CHICHEN ITZA, 0, CALLE NINGUNO, CALLE NINGUNO, CALLE NINGUNO, 295, 77500",
+   
+    "coords": [
+      21.17137,
+      -86.82312
+    ]
+  },
+  {
+    "id": 90,
+    "cct": "23PBH0077R",
+    "turno": "DISCONTINUO",
+    "nombre": "UNIVERSIDAD UNITECH",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "AVENIDA JOSE LOPEZ PORTILLO, 0, CALLE JOSE MARIA MORELOS, CALLE NINGUNO, PRIVADA IGNACIO ALLENDE, 68, 77524",
+
+    "coords": [
+      21.17905,
+      -86.816836
+    ]
+  },
+  {
+    "id": 91,
+    "cct": "23PCB0001G",
+    "turno": "MATUTINO",
+    "nombre": "COLEGIO BRITANICO DEL CARIBE, S.C.",
+    "tipoeducativo": "MEDIA SUPERIOR",
+    "niveleducativo": "BACHILLERATO",
+    "servicioeducativo": "BACHILLERATO GENERAL",
+    "tipo": "PRIVADO",
+    "sostenimiento": "PRIVADO",
+    "nombredelaentidad": "QUINTANA ROO",
+    "Nombredelmunicipio": "BENITO JUÁREZ",
+    "Nombredelocalidad": "CANCÚN",
+    "direccion": "CALLE PARGO, 0, CALLE HUACHINANGO, AVENIDA BONAMPAK, RETORNO 1, 295, 77500",
+   
+    "coords": [
+      21.16083,
+      -86.82219
+    ]
+  }
+]
