@@ -13,7 +13,7 @@
 <nav class="navbar">
   <div class="logo">
     <img src="img/cuniversidadeslogo.png" alt="SIGECQROO" class="logo-icon">
-    <span>SIGEQROO</span>
+    <span>Universidades Cancún</span>
   </div>
 
 
@@ -72,8 +72,9 @@
   <h2>🎓 algunas escuelas en Cancún</h2>
   <p class="subtitle">Demostracion de algunas escuelas</p>
 
-  <div class="carousel-container">
-    <div class="carousel" id="topUniversidades">
+ <div class="hero-carousel">
+  <div class="carousel-track" id="topUniversidades">
+
       
       <!-- CARD -->
       <div class="carousel-card">
@@ -170,7 +171,7 @@
   <section class="section cta">
     <h2>Comienza ahora</h2>
     <p style="text-align:center;max-width:600px;margin:0 auto 25px;">
-      Explora el mapa y encuentra la escuela que mejor se adapte a ti.
+      Explora el mapa y encuentra la escuelaque mejor se adapte a ti.
     </p>
     <div style="text-align:center;">
       <a href="mapa.html" class="btn-secondary">Explorar mapa</a>
@@ -251,30 +252,50 @@
 </html>
 
 <script>
-const carousel = document.getElementById("topUniversidades");
+const track = document.getElementById("topUniversidades");
 
-let speed = 0.5; // velocidad (ajusta si quieres)
-let rafId;
+let position = 0;
+let speed = 0.35;
+let paused = false;
 
-/* 🔁 DUPLICAR CONTENIDO */
-carousel.innerHTML += carousel.innerHTML;
+/* Clonado real para loop infinito */
+const cards = [...track.children];
+cards.forEach(card => {
+  const clone = card.cloneNode(true);
+  track.appendChild(clone);
+});
 
-const maxScroll = carousel.scrollWidth / 2;
+/* Animación */
+function animate() {
+  if (!paused) {
+    position -= speed;
 
-/* ♾️ LOOP INFINITO */
-function infiniteScroll() {
-  carousel.scrollLeft += speed;
+    const firstWidth = cards[0].offsetWidth + 40;
 
-  if (carousel.scrollLeft >= maxScroll) {
-    carousel.scrollLeft -= maxScroll;
+    if (Math.abs(position) >= firstWidth) {
+      position += firstWidth;
+      track.appendChild(track.firstElementChild);
+    }
+
+    track.style.transform = `translateX(${position}px)`;
   }
-
-  rafId = requestAnimationFrame(infiniteScroll);
+  requestAnimationFrame(animate);
 }
 
-/* 🚀 START */
-infiniteScroll();
+animate();
+
+/* Pausa SOLO cuando el mouse está sobre la card */
+track.addEventListener("mouseover", e => {
+  if (e.target.closest(".carousel-card")) paused = true;
+});
+
+track.addEventListener("mouseout", e => {
+  if (e.target.closest(".carousel-card")) paused = false;
+});
+
+/* Scroll del mouse */
+track.addEventListener("wheel", e => {
+  e.preventDefault();
+  position += e.deltaY * 0.6;
+});
 </script>
-
-
-
